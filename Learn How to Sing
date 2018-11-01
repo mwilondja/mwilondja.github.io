@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+
+    <a href="index.html">Having Fun</a>
+    <a href="Learn how to sing.html">Learn How To Sing</a> <a href="Fashion.html">Fashion</a>
+    
+    <h2>First time</h2>
+        <img src="Learn how to sing.jpg" alt="Learn how to sing"> <li> from luxfon.com-concert
+  </head> 
+  <body>
+    <ol>
+      <li> Choose someone who can teach you how to sing</li>
+      <ul>
+        <li>there will be a lot of people that can teach you to how    sing</li> 
+        <li> before she/he done to teach you</li>
+      </ul>
+      <li>Start sing by yourself to make sure if you can sing</li>
+      <li> try it with that person who teach you</li>
+      <li> then try it by yourself and see if you already know how to sing</li>
+      <li>When you feel like you already know how to sing try to make a competition with those person who teach you.</li> 
+      <ul>
+        <li>when you feel better and see like u can sing by yourself know that you can sing on stage or somewhere else.</li>
+        <li> if you don't win try to repeat again and again but i'm sure that you will know how to sing
+        <ul>
+     </ol>
+  </body>
+</html>
