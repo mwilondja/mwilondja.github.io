@@ -1,36 +1,58 @@
-body{
-  text-align: center;
-  background-color: gray;
-}
-img {
-  width: 500px;
-  border-color:black;
-  border-style: ridge;
-  border-width: 5px;
-}
 h1 {
-  font-size: 50px;
-}
-h2 {
-  font-size: 40px;
-}
-h5 {
-  font-size: 15px;
-} 
+    text-decoration: underline;
+    color: greenyellow;
+    font-family: sans-serif;
+    color: rgb(234,243,90);
+  }
 
-.winter {
-  color: rgb(195,230,255);
-  font-family: monospace; 
-} 
+  h2 {
+    font-family: sans-serif;
+    color: greenyellow;
+    color: rgb(23,246,23);
+  }
+  
+h3 { font-family: sans-serif;
+  color:greenyellow;
+ 
+  
+}
+  img {
+    float: inherit;
+    width: 234px;
+    margin: 10px;
+    border-color: springgreen;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 100px;
+  }
 
-.spring {
-  color: rgb(236,222,106);
-  font-family: cursive;  
+  p {
+    text-align: left;
+    font-family: monospace;
+    font-size: 14px;
+   
+
+  }
+body {
+  background-color: lightblue;
 }
 
-.summer {
-  color: rgb(234,128,158);
-  font-family: sans-serif;
+;
+  border-width: 1opx;
+  border-style: solid;
+  border-radius: 10px;
+
+}
+
+p {
+  text-align: left;
+  font-family: monospace;
+  font-size: 14px;
+  
+  
+  
+
+}
 }
 
 .fall {
